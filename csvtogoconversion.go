@@ -1,0 +1,26 @@
+package csvtogo 
+
+var csvToGo = []string {
+"Hello",
+"Go",
+"World",
+"Welcome",
+"To",
+"The",
+"CSV",
+"To",
+"Go",
+"Conversion",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"7",
+"8",
+"9",
+"10",
+"Lets",
+"Go!!!",
+}
